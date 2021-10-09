@@ -8,5 +8,6 @@
 - SLAM algorithm for navigation using kinetic sensor, ultrasonic and mono-camera.•Using Robot operating system (ROS) architecture to integrate all the features
 <p align="center">
 <img src="adam.jpeg"/>
+<img src="adamAndImove.jpg"/>
 </p>
-![img2](adamAndImove.jpg)
+
