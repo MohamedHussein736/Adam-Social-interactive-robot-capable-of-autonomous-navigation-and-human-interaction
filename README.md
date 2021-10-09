@@ -7,6 +7,6 @@
 - Other features such as chat-bot,  follow me using PID control,  Capability to connect as a nodewith IoT System, remotely control and visualization throw web page.
 - SLAM algorithm for navigation using kinetic sensor, ultrasonic and mono-camera.•Using Robot operating system (ROS) architecture to integrate all the features
 
-<img src="adam.jpeg" width="248" height="820" />
+<img src="adam.jpeg" class="center" />
 
 ![img2](adamAndImove.jpg)
