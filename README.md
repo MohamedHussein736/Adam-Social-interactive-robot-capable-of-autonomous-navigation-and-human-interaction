@@ -6,7 +6,7 @@
 - Implemented human interaction features such as Facial recognition, identify the new humans andask about their names and make a real time training to recognize them in the future using deeplearning algorithm.
 - Other features such as chat-bot,  follow me using PID control,  Capability to connect as a nodewith IoT System, remotely control and visualization throw web page.
 - SLAM algorithm for navigation using kinetic sensor, ultrasonic and mono-camera.•Using Robot operating system (ROS) architecture to integrate all the features
-
-<img src="adam.jpeg" class="center" />
-
+<p align="center">
+<img src="adam.jpeg"/>
+</p>
 ![img2](adamAndImove.jpg)
